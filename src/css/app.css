@@ -1,0 +1,67 @@
+.root {
+    --primary-color: #08A6E4;
+    --secondary-color: #FB3B64;
+    --third-color: #55DFB4;
+    --basic-color: #000000;
+}
+
+html, body {
+    font-size: 16px;
+}
+
+.header__container {
+    width: 100vw;
+
+}
+
+.header__container .header__wrapper {
+    width: 84.5rem;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.header__container .header__menu {
+}
+
+.header__menu .menu__item {
+}
+
+.header__menu .menu__item.menu__item--active,
+.header__menu .menu__item:hover {
+}
+
+
+.intro {
+}
+
+.intro .intro__hdl {
+}
+
+.intro .intro_lead {
+}
+
+.intro .intro__box {
+}
+
+.btn {
+}
+
+.btn-lg {
+}
+
+.btn-primary {
+}
+
+.stats__container{}
+.stats__container .stats__hdl{}
+.stats__box{}
+.stats__box .stats-nr{}
+.stats__box .stats-descr{}
+
+.benefits{}
+.benefits__container{}
+.benefits__container .benefits__box{}
+.benefits__container .benefits__box.benefits--phone{}
+.benefits__container .benefits__box .benefits__title{}
+.benefits__container .benefits__box .benefits__descr{}
+.benefits__container .benefits__box.benefits--sm{}
